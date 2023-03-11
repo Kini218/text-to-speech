@@ -15,7 +15,7 @@ The script uses pdfplumber to extract text from PDF files and replaces any issue
 To use the script, simply run it in the terminal and provide the file path and language input when prompted:
 
 ```python
-python pdf_to_mp3.py
+python text_to_speech.py
 ```
 
 
