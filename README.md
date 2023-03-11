@@ -37,3 +37,7 @@ Google Text-to-Speech supports a wide variety of languages, which can be specifi
 | Korean | ko |
 
 For a full list of supported languages and their codes, you can refer to the [gTTS documentation](https://gtts.readthedocs.io/en/latest/module.html). 
+
+## License
+
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
