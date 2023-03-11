@@ -20,3 +20,20 @@ python pdf_to_mp3.py
 
 
 The script will generate an MP3 file with the same name as the input file in the same directory. If there are any issues during the conversion process, the script will display an error message and exit. 
+
+## Supported Languages
+
+Google Text-to-Speech supports a wide variety of languages, which can be specified using the language code. Here is a table of some of the supported languages and their language codes:
+
+| Language | Language Code |
+| --- | --- |
+| English | en |
+| French | fr |
+| German | de |
+| Italian | it |
+| Spanish | es |
+| Russian | ru |
+| Japanese | ja |
+| Korean | ko |
+
+For a full list of supported languages and their codes, you can refer to the [gTTS documentation](https://gtts.readthedocs.io/en/latest/module.html). 
