@@ -1,4 +1,4 @@
-# PDF to MP3 Converter
+# Text to MP3 Converter
 
 This Python script converts PDF and TXT files into MP3 audio files using Google Text-to-Speech (gTTS). The script checks if the specified file exists, ensures that the file extension is either a PDF or TXT file, and checks if the specified language is supported by gTTS. 
 
